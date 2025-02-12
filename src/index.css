@@ -13,13 +13,13 @@ code {
 }
 
 :root {
-  --bg-color: white;
-  --text-color: black;
+  --bg-color: rgb(211, 138, 138);
+  --text-color: rgb(98, 147, 203);
 }
 
 .dark {
-  --bg-color: #1a202c;
-  --text-color: white;
+  --bg-color: #0e3583;
+  --text-color: rgb(191, 217, 62);
 }
 
 body {

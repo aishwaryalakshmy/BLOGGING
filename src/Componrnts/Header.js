@@ -8,7 +8,7 @@ export default function Header(){
 
     return(
     <header className="header-comp">
-      <Link to="/" class="logo">MY BLOG..</Link>
+      <Link to="/" class="logo">MY BLOGGING PAGE</Link>
       {/* Search Bar */}
       <input
         type="text"
