@@ -2,7 +2,7 @@ export default function Login(){
  return(
     <>
       <form className="Login">
-        <h3>Welcome Back</h3>
+        <h3>Welcome Back !</h3>
         <p>Enter your details below</p>
         <input type="text" placeholder="Your Fullname" required></input>
         <input type="email" placeholder="Enter Your Email" required></input>
